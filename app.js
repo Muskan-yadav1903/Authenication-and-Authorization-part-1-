@@ -18,5 +18,3 @@ app.get("/read", function(req, res){
 })
 
 app.listen(3000);
-// $2b$10$1oD8vUkQl4Me05isdohNjuy5UrSV1xZZKzkg6m79JzBSez2UT98H6
-// pololololoo
